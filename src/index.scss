@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+}
+
+nav {
+  margin-bottom: 0px !important;
+}
+
+.navbar {
+  .deviceSelector {
+    width: 18em;
+    height: 40px;
+    .dropdown {
+      display: flex;
+      align-items: center;
+      height: 50px;
+    }
+  }
+}
+
+.navbar-form {
+  .form-control {
+    &.fov {
+      &[type='text'] {
+        width: 3em !important;
+        text-align: center;
+      }
+    }
+  }
+}
