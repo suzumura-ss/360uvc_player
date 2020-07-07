@@ -50,7 +50,7 @@
     "babel-register": "^6.18.0",
     "chai": "^3.5.0",
     "chai-as-promised": "^6.0.0",
-    "electron": "^1.6.0",
+    "electron": "^9.1.0",
     "electron-builder": "^13.9.0",
     "gulp": "^3.9.1",
     "gulp-babel": "^6.1.2",
